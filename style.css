@@ -1,0 +1,13 @@
+table, td, tr{
+    border: 3px solid;
+}
+
+td{
+    width: 45px;
+    height: 45px;
+    text-align: center;
+}
+
+table{
+    margin-top: 8px;
+}
